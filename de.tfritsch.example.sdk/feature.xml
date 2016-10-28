@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="de.tfritsch.example.sdk"
+      label="%featureName"
+      version="1.0.0.qualifier"
+      provider-name="%providerName"
+      plugin="de.tfritsch.example">
+
+   <description url="http://thomas-fritsch.github.io/example/">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="gpl-3.0-standalone.html">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.platform" version="4.3" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="de.tfritsch.example"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

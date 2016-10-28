@@ -24,7 +24,7 @@ A complete build (including unit tests) is done by:
 
     mvn clean verify
 
-The generated update site will be in directory `de.tfritsch.psdt.updatesite/target/repository`.
+The generated update site will be in directory `de.tfritsch.example.updatesite/target/repository`.
 
 ## Release History
 

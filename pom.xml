@@ -44,6 +44,7 @@
 	</ciManagement>
 
 	<modules>
+		<module>de.tfritsch.example.target</module>
 	</modules>
 
 	<properties>

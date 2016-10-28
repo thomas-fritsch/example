@@ -45,6 +45,7 @@
 
 	<modules>
 		<module>de.tfritsch.example.target</module>
+		<module>de.tfritsch.example</module>
 	</modules>
 
 	<properties>

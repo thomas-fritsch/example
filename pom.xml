@@ -47,6 +47,7 @@
 		<module>de.tfritsch.example.target</module>
 		<module>de.tfritsch.example</module>
 		<module>de.tfritsch.example.sdk</module>
+		<module>de.tfritsch.example.updatesite</module>
 	</modules>
 
 	<properties>

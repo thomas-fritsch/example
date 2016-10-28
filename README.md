@@ -1,5 +1,6 @@
 # Example Eclipse Project
 
+[![Build Status](https://travis-ci.org/thomas-fritsch/example.svg?branch=master)](https://travis-ci.org/thomas-fritsch/example)
 [![License](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 ## Features

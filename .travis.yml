@@ -1,10 +1,10 @@
 language: java
-
 cache:
   directories:
-    - $HOME/.m2
-
+  - "$HOME/.m2"
 install: true
-
 script:
-  - mvn verify
+- mvn verify
+env:
+  global:
+    secure: TCQyWAkbfb+rkUCC0TM9NoPhbb25ByZP+K/ScIooXhw9n578V6Sf1eb4kyxRH16U562f7PkqlW8tl+mtZ+2M7re4bLQ1cqyuBJ2iomn1/+dhM0w2lCK8+LzyZjahgcm9KhNwem9K/xJnKocDp6jXcdQA2CbRLzbNMvUbpEgTp32EDm1O1Kv5NCQRJsEexlZ88Y/bddERyrmDxk8YWiN97CBupzoCSkkwpWzDRsh9gxbaQV3olzk9Qi/Ctz4rfWB9eyB85aVbFDGUwZIsGwiE80eTV1uq/rzeqeZh7y5Epe2hdjZZbucW7/0Hs6nkBhkLkXKpno6mdsIXx1vhKAbXWaBJxPiw790ySVfDQFVCZLmYv26itk5ypmXcOSnzMo+QyEmNanVg4+tW8R556C5RFK8h6NZQYK0B04YkQlG4LY1SEC5XJ5lnMLMpIRWBRceDwrhIWmq2A3z9VcliBOX9Cf2uRX+SMC5dmmj+gMtHzFgbTa/IJlUPTXYpZ6uLHuVBh56EjzUSZwozCjVjVG2+FnDdMsYgSA887MoJCc0p3FbnbxN+OA2XRA4dQCpQBT37XunJkW1cy02zaTV4U3/885Q5+nas//iFpdlfmdw+lcAOi9awqhGNE122BWud0qkxo9zO512o5cbb+WvxCx9IUwgdGM4vxn+ti+sGHmcz9ok=

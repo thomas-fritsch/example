@@ -11,7 +11,7 @@ Make sure you have the following prerequisites installed:
 * [Java](https://www.java.com/) (version 6 or higher).
 * [Eclipse](http://www.eclipse.org) (version 4.4 or higher).
   
-Install Example into Eclipse from the update site (not yet available).
+Install Example into Eclipse from the update site <https://thomas-fritsch.github.io/example/repository>.
 
 ## Development setup
 

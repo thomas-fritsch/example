@@ -10,15 +10,15 @@
     },
     "files": [
         {
-		    "includePattern": "de.tfritsch.psdt.updatesite/target/repository/(.*\\.jar)",
+		    "includePattern": "de.tfritsch.example.updatesite/target/repository/(.*\\.jar)",
 			"uploadPattern": "$1"
 	},
         {
-		    "includePattern": "de.tfritsch.psdt.updatesite/target/repository/features/(.*)",
+		    "includePattern": "de.tfritsch.example.updatesite/target/repository/features/(.*)",
 			"uploadPattern": "features/$1"
 	},
         {
-		    "includePattern": "de.tfritsch.psdt.updatesite/target/repository/plugins/(.*)",
+		    "includePattern": "de.tfritsch.example.updatesite/target/repository/plugins/(.*)",
 			"uploadPattern": "plugins/$1"
 	}
     ],

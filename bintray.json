@@ -6,21 +6,21 @@
     },
     "version": {
         "name": "1.0.0",
-        "desc": "version uploaded by travis",
+        "desc": "version uploaded by travis"
     },
     "files": [
         {
 		    "includePattern": "de.tfritsch.psdt.updatesite/target/repository/(.*\\.jar)",
 			"uploadPattern": "$1"
-		},
+	},
         {
 		    "includePattern": "de.tfritsch.psdt.updatesite/target/repository/features/(.*)",
 			"uploadPattern": "features/$1"
-		},
+	},
         {
 		    "includePattern": "de.tfritsch.psdt.updatesite/target/repository/plugins/(.*)",
 			"uploadPattern": "plugins/$1"
-		}
+	}
     ],
     "publish": false
 }

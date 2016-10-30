@@ -7,6 +7,6 @@
 		<property name="p2.timestamp" value="1477699208412" />
 	</properties>
 	<children size="1">
-		<child location="http://dl.bintray.com/thomas-fritsch/generic/example/1.0.0/" />
+		<child location="http://dl.bintray.com/thomas-fritsch/eclipse/example/1.0.0/" />
 	</children>
 </repository>

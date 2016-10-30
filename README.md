@@ -11,7 +11,22 @@ Make sure you have the following prerequisites installed:
 * [Java](https://www.java.com/) (version 6 or higher).
 * [Eclipse](http://www.eclipse.org) (version 4.4 or higher).
   
-Install Example into Eclipse from the update site <https://thomas-fritsch.github.io/example/repository>.
+#### Installation from Update Site
+
+In Eclipse, do the following:
+* Go to menu _Help_ -> _Install New Software..._
+* At _Work with:_ enter the URL <http://thomas-fritsch.github.io/example/repository/>
+* The install view will present the available things, select the _Example_ category
+* Proceed to install the software in the usual manner accepting all defaults
+* Eclipse will prompt for a restart, accept this, then Example is usable
+
+#### Installation of Alternate Versions
+
+The above installation mechanism will install the latest official version of
+Example. It is possible to install older or newer beta versions of the software
+by using <http://dl.bintray.com/thomas-fritsch/eclipse/example/x.y.z> as the
+update site URL, where x.y.z is the desired version. You can see the available
+versions at <http://dl.bintray.com/thomas-fritsch/eclipse/example/>.
 
 ## Development setup
 

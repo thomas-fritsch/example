@@ -1,22 +1,16 @@
 # Example Eclipse Project
 
-[![Build Status](https://travis-ci.org/thomas-fritsch/example.svg?branch=master)]
-  (https://travis-ci.org/thomas-fritsch/example)
-[![License](https://img.shields.io/badge/license-GPL%203.0-blue.svg)]
-  (http://www.gnu.org/licenses/gpl-3.0)
-[![Download](https://api.bintray.com/packages/thomas-fritsch/eclipse/example/images/download.svg)]
-  (https://bintray.com/thomas-fritsch/eclipse/example/_latestVersion)
+[![Build Status](https://travis-ci.org/thomas-fritsch/example.svg?branch=master)](https://travis-ci.org/thomas-fritsch/example)
+[![License](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+[![Download](https://api.bintray.com/packages/thomas-fritsch/eclipse/example/images/download.svg)](https://bintray.com/thomas-fritsch/eclipse/example/_latestVersion)
 
 Just a meaningless sample Eclipse project
 
 ## Features
 * Build by Maven/Tycho
-* Continuous Integration on [![](https://avatars.githubusercontent.com/u/639823?s=24)Travis CI]
-  (https://travis-ci.org/thomas-fritsch/example)
-* Releases deployed on [![](https://avatars.githubusercontent.com/u/4857392?s=24)Bintray]
-  (https://bintray.com/thomas-fritsch/eclipse/example)
-* P2 Composite Update Site hosted on [![](https://avatars.githubusercontent.com/u/9919?s=24)GitHub Pages]
-  (https://thomas-fritsch.github.io/example/repository/)
+* Continuous Integration on [![](https://avatars.githubusercontent.com/u/639823?s=24)Travis CI](https://travis-ci.org/thomas-fritsch/example)
+* Releases deployed on [![](https://avatars.githubusercontent.com/u/4857392?s=24)Bintray](https://bintray.com/thomas-fritsch/eclipse/example)
+* P2 Composite Update Site hosted on [![](https://avatars.githubusercontent.com/u/9919?s=24)GitHub Pages](https://thomas-fritsch.github.io/example/repository/)
 
 ## Installation
 

@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Example
 Bundle-SymbolicName: de.tfritsch.example
-Bundle-Version: 1.0.1.qualifier
+Bundle-Version: 1.0.3.qualifier
 Bundle-Activator: de.tfritsch.example.ExamplePlugin
 Bundle-Vendor: Thomas Fritsch
 Require-Bundle: org.eclipse.core.runtime

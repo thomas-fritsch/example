@@ -5,7 +5,7 @@
 
 	<groupId>de.tfritsch.example</groupId>
 	<artifactId>parent</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.3-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Example Eclipse Project</name>
